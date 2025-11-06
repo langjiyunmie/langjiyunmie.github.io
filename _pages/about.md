@@ -8,16 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-Short Bio
-======
-I am now an Associate Professor at Institute of Automation Chinese Academic of Sciences (CASIA). My research interest includes machine learning and pattern recognition, especially **3D face reconstruction**, **face recognition**, and **Face AIGC**. I am awarded the “Young Biometrics Investigator Award **(YBIA)**” by the International Association of Pattern Recognition (IAPR) in 2023 (awarded biennially to one scholar under 40 worldwide). I won the Champion of the Face Recognition Challenges at WACV 2024 and ICCV 2017, CCBR Best Student Paper Award (2017), Best Poster Paper Award (2022), and Best Paper 1st Runner Up (2023). I have published more 100 papers with total citation in Google Scholar being over 11000. I am an IEEE senior member and serve as the Associate Editor of IEEE Transactions on Information Forensics & Security (T-IFS) and Pattern Recognition (PR), Program Chair of IJCB 2025, and Area Chair for IJCB and ACM MM. My github projects on face analysis and 3D reconstruction have gained over 8000 stars.
+# ***\*About me\****
+
+Dr. Qinnan Zhang is currently Assistant Researche at School of Artificial Intelligence, Beihang University, is an independent PI of Matrix Lab, collaborating with Prof.[[Zhiming Zheng\]](https://iai.buaa.edu.cn/info/1013/1088.htm)(Academician of the Chinese Academy of Sciences), fosuing on AI-enpowered Blockchain Security and Privacy Computing.
+
+I pursued my PhD from 2019 to 2023 across three prestigious institutions:Nanyang Technological University(NTU), Singapore University of technology and design (SUTD) and Central University of Finance and Economics, studying Computer Science and Technology. At NTU, I had the privilege of working under the guidance of Prof.Dusit (Tao) Niyato. My time at SUTD was spent collaborating with Prof.Zehui Xiong. While at CUFE, I worked closely with Prof.Jianming Zhu and Prof. Sheng Gao. My research interests lie in the areas of Web 3.0, blockchain security, stablecoin and Federated multi-modal LLMs. Please feel free to contact me by email (zhangqnp@gmail.com or zhangqn@buaa.edu.cn), if you are interested in my research.
+
+I created Matrix lab, affiliated with the Beijing Advanced Innovation Center for Future Blockchain and Privacy Computing. Our team focuses on blockchain-centric Next generation value Internet (Web 3.0), with the ultimate goal of achieving a trade network that surpasses traditional financial model. Currently, our research focuses on three interconnected directions:
+
+- AI-empowered Blockchain Security: We investigate blockchain fraud patterns and develop detection mechanisms from an AI-driven perspective.
+
+- AI-empowered Quantitative Trading: We explore AI-agent-based investment strategies for digital assets in Automated Market Maker (AMM) environments, targeting arbitrage opportunities enabled by intelligent systems.
+
+- Federated Multi-modal LLMs: We study LLMs cognition and reasoning processes through distributed training frameworks, enhancing model capability and privacy.
+
+Through these integrated research streams, we strive to push the boundaries of AI and blockchain technology, moving closer to the vision of a decentralized, intelligent value network that exceeds conventional financial systems.
 
 <br>
 
 
-Chinese Bio
-======
-中国科学院自动化研究所副研究员，从事生物特征识别、数字人、AI4Science（空气动力学）研究与应用。国际模式识别协会（IAPR）生物特征识别青年学者奖（YBIA）获得者（两年一次，每次从全球范围内评选40岁以下学者一名）。共发表论文100余篇，发表文章的Google Scholar总引用次数为11000余次，入选IEEE Senior Member，百度学术全球华人AI青年学者榜单（全球25人）。获得三次国际竞赛冠军以及四项最佳论文及提名奖。授权国家发明专利16项。任生物特征识别国际期刊IEEE Transactions on Information Forensics & Security (T-IFS, CCF:A) 、模式识别国际知名期刊Pattern Recognition (PR, CCF:B) Associate Editor， 国际生物特征识别大会 IJCB 2025 Program Chair, 中国人工智能学会模式识别专委会副秘书长，中国图象图形学学会青托俱乐部副主席。获中国图象图形学学会自然科学二等奖（第一完成人），中国电子学会科技进步二等奖。提出的人脸三维建模方法在国际上产生了较广泛的影响力，相关成果被PyTorch官方Twitter报道，开源代码在Github上收获8000余星。主持中科院先导A专项课题，国自然重大培育、面上项目，华为、腾讯、阿里、商汤等企业委托项目。
+张沁楠，北京航空航天大学人工智能学院助理研究员，入选卓越百人计划。曾荣获中国仿真学会科学技术一等奖、CCF会刊《计算机学报》优秀论文奖、优博论文奖、龙马学术之星等多项荣誉称号。现为CCF区块链专委会执行委员、中国仿真学会算力系统仿真专委会执行委员。研究方向包括AI赋能区块链安全、稳定币智能风控、联邦多模态大模型。近年来主要围绕AI赋能区块链安全、联邦多模态大模型等问题，以第一或通讯作者发表论文20余篇，包括INFOCOM、ICDE、IEEE/ACM Trans、CSUR、中国科学、计算机学报等国内外权威期刊会议，牵头制定区块链与隐私计算领域IEEE国际标准2项，担任区块链技术大会、IEEE GBC等区块链领域知名学术会议领域主席，长期担任TKDE、IoT-J、AAAI、CIKM、ICDE等顶级期刊和会议论文审稿人。主持中国博士后科学基金面上项目、未来区块链与隐私计算高精尖创新中心前沿任务，参与科技部重点研发计划、国家自然科学基金面上项目、国家自然科学基金重点专项项目、教育部产学研项目等多项国家级及省市级科研项目。张沁楠博士注重产业化研究与技术落地，聚焦区块链安全体系构建和联邦多模态大模型在医疗行业的实际应用。与蚂蚁金服、联通集团等头部企业长期保持深度合作，其研究成果在区块链和隐私计算等领域实现了多项技术转化与工程化应用。入职以来重点研究AI赋能的区块链反欺诈、联邦多模态大模型联合建模，及其在医疗行业和Web 3.0价值互联网领域的应用成果在区块链和隐私计算等领域实现了多项技术转化与工程化应用。入职以来重点研究AI赋能的区块链反欺诈、联邦多模态大模型联合建模，及其在医疗行业和Web 3.0价值互联网领域的应用。
+
+现每年合作招收博士生2-3名、硕士生4-6名，并长期招收实习生。研究方向包括区块链安全、联邦多模态大模型、及人工智能应用与产业化。博士、硕士招生地点为北京航空航天大学（学院路校区、杭州国际校区）及中央财经大学（沙河校区）；实习生可选择线上或在北航柏彦大厦线下工作。近期招收RA，base北航柏彦大厦，优秀者可转PhD！
 
 <br>
 
