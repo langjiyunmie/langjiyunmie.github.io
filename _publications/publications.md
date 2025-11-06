@@ -1,16 +1,16 @@
-2021
+2025
 ======
 <div class="row">
   <div class="column left">
-    <img align="left" width="100%" src="https://keshuixm.github.io/xiangyuzhu.github.io/pic/c1.png?raw=true">  
+    <img align="left" width="100%" src="https://langjiyunmie.github.io/pic/2025-Agent4.png?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
       <strong>Face Forgery Detection by 3D Decomposition,</strong><br/>
-      Xiangyu Zhu, Hao Wang, Hongyan Fei, Zhen Lei, Stan Z. Li.<br/>
-      IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021.<br/>
-      [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/CVPR21face.pdf">PDF</a>]
+      Wanqing JIE1,2, Wangjie QIU1,2*, Haofu YANG1, Muyuan GUO1,Xinpeng HUANG1,2, Tianyu LEI1, <u>Qinnan ZHANG</u>,Hongwei ZHENG3 & Zhiming ZHENG1,2<br/>
+      Special Topic: Enabling Techniques and Cutting-Edge Applications of Foundation Models, 2025.<br/>
+      [<a href="http://scis.scichina.com/en/2025/160101.pdf">PDF</a>]
     </p>
   </div>
 </div>
