@@ -11,7 +11,10 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="200%" src="https://langjiyunmie.github.io/pic/2025-Agent4.png?raw=true">  
+    <img src="https://langjiyunmie.github.io/pic/2025-Agent4.png?raw=true"
+     alt="Agent4"
+     style="float:left; width:200%; height:400%; object-fit:cover;">
+
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
