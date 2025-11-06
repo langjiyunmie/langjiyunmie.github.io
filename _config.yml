@@ -6,12 +6,12 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Xiangyu Zhu's Homepage"
+locale                   : "CN"
+title                    : "Qinnan Zhang's Homepage"
 title_separator          :  
-name                     : &name "Xiangyu Zhu (朱翔昱)"
+name                     : &name "Qinnan Zhang (张沁楠)"
 description              : &description "personal description"
-url                      : https://xiangyuzhu-open.github.io/homepage # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://langjiyunmie.github.io/homepage # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xiangyu Zhu"
+  name             : "Qinnan Zhang"
   avatar           : "bio-photo.jpg"
-  bio              : "Associate Professor"
+  bio              : "Assistant Researche"
   location         : "Beijing, China"
-  employer         : "NLPR, CASIA"
+  #employer         : "NLPR, CASIA"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=1rbNk5oAAAAJ"
-  email            : "xiangyu.zhu@nlpr.ia.ac.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=A91BgKwAAAAJ&hl=zh-CN"
+  email            : "zhangqn@buaa.edu.cn" 
   researchgate     :  
   uri              :  
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         : 
-  orcid            : "https://orcid.org/0000-0002-4636-9677"
+  #orcid            : "https://orcid.org/0000-0002-4636-9677"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
