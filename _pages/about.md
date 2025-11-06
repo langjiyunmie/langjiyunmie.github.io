@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# ***\*About me\****
+# ***\About me\***
 
 Dr. Qinnan Zhang is currently Assistant Researche at School of Artificial Intelligence, Beihang University, is an independent PI of Matrix Lab, collaborating with Prof.[[Zhiming Zheng\]](https://iai.buaa.edu.cn/info/1013/1088.htm)(Academician of the Chinese Academy of Sciences), fosuing on AI-enpowered Blockchain Security and Privacy Computing.
 
