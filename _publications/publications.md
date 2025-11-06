@@ -7,8 +7,8 @@
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>Face Forgery Detection by 3D Decomposition,</strong><br/>
-      Wanqing JIE1,2, Wangjie QIU1,2*, Haofu YANG1, Muyuan GUO1,Xinpeng HUANG1,2, Tianyu LEI1, <u>Qinnan ZHANG</u>,Hongwei ZHENG3 & Zhiming ZHENG1,2<br/>
+      <strong>Agent4Vul: multimodal LLM agents for smart contract vulnerability detection,</strong><br/>
+       Wanqing JIE1,2, Wangjie QIU1,2*, Haofu YANG1, Muyuan GUO1, Xinpeng HUANG1,2, Tianyu LEI1, Qinnan ZHANG1*, Hongwei ZHENG3 & Zhiming ZHENG1,2<br/>
       Special Topic: Enabling Techniques and Cutting-Edge Applications of Foundation Models, 2025.<br/>
       [<a href="http://scis.scichina.com/en/2025/160101.pdf">PDF</a>]
     </p>
