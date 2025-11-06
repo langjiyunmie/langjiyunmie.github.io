@@ -11,15 +11,15 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2025-nips-zhang.png?raw=true">  
+    <img align="left" width="200%" src="https://langjiyunmie.github.io/pic/2025-Agent4.png?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>DevFD: Developmental Face Forgery Detection by Learning Shared and Orthogonal LoRA Subspaces,</strong><br/>
-      Tianshuo Zhang, Li Gao, Siran Peng, <strong>Xiangyu Zhu (Corresponding Author)</strong>, Zhen Lei<br/>
-      Thirty-Ninth Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2025. <br/>
-      [<a href="https://arxiv.org/pdf/2509.19230">PDF</a>][<a href="https://mp.weixin.qq.com/s/Afw1W7AE4BVpFaoZh-kFHg">Weixin</a>]
+      <strong> Agent4Vul: multimodal LLM agents for smart contract vulnerability detection,</strong><br/>
+       Wanqing JIE, Wangjie QIU, Haofu YANG, Muyuan GUO, Xinpeng HUANG, Tianyu LEI, Qinnan ZHANG, Hongwei ZHENG & Zhiming ZHENG<br/>
+       Special Topic: Enabling Techniques and Cutting-Edge Applications of Foundation Models, 2025. <br/>
+      [<a href="http://scis.scichina.com/en/2025/160101.pdf">PDF</a>]
     </p>
   </div>
 </div>
