@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 
-Ph.D
+团队名称： Matrix Lab
+团队介绍：Matrix Lab致力于AI赋能区块链安全、联邦多模态大模型，隐私计算研究等方向的研究，近年来专注于专注于构建以区块链为中心的下一代价值互联网（Web 3.0）。
 ======
 * 2024 Zheyu Yan, work on face recognition. (together with Prof. Zhen Lei)
 * 2024 Runze Zhong, work on AI+Biology. (together with Prof. Stan Z Li and Zhen Lei)
